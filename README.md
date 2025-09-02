@@ -111,10 +111,3 @@ The repo includes **`app.yaml`** for App Engine. To deploy:
    ```
 
 > Adjust `app.yaml` runtime/entrypoint to match your Flask setup if needed.
-
-
-## 🙏 Acknowledgements
-
-- Tesseract OCR
-- Flask & Jinja
-- Google App Engine (optional deployment)
